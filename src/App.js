@@ -17,7 +17,7 @@ const app = new Clarifai.App({
 const particleOptions = {
   particles: {
     number: {
-      value: 95,
+      value: 75,
       density: {
         enable: true,
         value_area: 500
@@ -52,7 +52,7 @@ class App extends Component {
   }
 
   displayFaceBox = (box) => {
-    console.log(box)
+    // console.log(box)
     this.setState({box: box})
   }
 
