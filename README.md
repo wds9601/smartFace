@@ -1,6 +1,7 @@
 # SmartFace
-A web app that uses facial recognition to analyze online photos for faces.
-Includes user auth and PostgreSQl DB integration.
+---
+- A web app that uses facial recognition to analyze online photos for faces.
+- Includes user auth and PostgreSQl DB integration.
 
 ![SmartFace screen shot home page](#)
 
