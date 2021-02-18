@@ -6,7 +6,7 @@
 
 ## Why Build This?
 - This was the final project of a Udemy Course on full stack web development.
-- Credit for app design: [ZTM](https://zerotomastery.io/)
+- Credit for app design: [ZTM](https://academy.zerotomastery.io/p/complete-web-developer-zero-to-mastery)
 
 ## What Tech Does it Use?
 **Front End**
